@@ -16,6 +16,8 @@ IMPORTANT: when running these three programs, change the paths, as they save the
 
 ## Generative adversarial networks (GANs)
 
+GANs, or generative adversarial networks, contain two neural networks, a generator and a discriminator, that compete with each other. Given a training set, GANs are capable of generating original data with similar properties to the training set.
+
 DRAGAN-main is the main file to run. 
 
 dataloader and utils are used to help DRAGAN and WassersteinGAN run.
