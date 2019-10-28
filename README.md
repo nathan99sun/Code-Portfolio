@@ -25,3 +25,7 @@ dataloader and utils are used to help DRAGAN and WassersteinGAN run.
 DRAGAN is an implementation of the Deep Regret Analytic Generative Adversarial Network, recently developed by Kodali et al to mitigate the effects of mode collapse. They hypothesize that mode collapse is due to the min-max game converging to a bad local equilibria in non-entirely convex games. To counter this effect, the paper suggests the use of gradient penalty points through a gradient penalty scheme, leading to the creation of DRAGAN.
 
 WassersteinGAN is an implementation of the Wasserstein GAN, which improves stability compared to the regular GANs. It uses Earth mover's distance to create a new loss function, which improves the quality of generated images.
+
+## Data!
+
+Enjoy some gifs of the DRAGAN and WGAN training on the MNIST, CIFAR10, and CIFAR100 datasets!
