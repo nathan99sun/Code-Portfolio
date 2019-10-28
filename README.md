@@ -13,3 +13,6 @@ CIFAR100 Neural Network-
 CIFARtest is a Convolutional Neural Network trained on the CIFAR100 dataset. Final commented accuracies are ran on 10 epochs each.
 
 IMPORTANT: when running these three programs, change the paths, as they save the best model for test and validation.
+
+Generative adversarial networks-
+
