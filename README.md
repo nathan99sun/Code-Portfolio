@@ -18,7 +18,7 @@ WassersteinGAN is an implementation of the Wasserstein GAN, which improves stabi
 
 ## Data!
 
-Enjoy some gifs of the DRAGAN and WGAN training on the MNIST, CIFAR10, and CIFAR100 datasets!
+Enjoy some cool gifs of the DRAGAN and WGAN training on the MNIST, CIFAR10, and CIFAR100 datasets!
 
 ## PROMYS q-Eulerian Polynomial Data Generator
 
