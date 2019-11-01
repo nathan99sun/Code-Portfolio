@@ -10,6 +10,8 @@ The following gives a brief description of each of the codes:
 
 GANs, or generative adversarial networks, contain two neural networks that compete with each other and improve at the same time. Eventually, they enhance themselves so much that even humans cannot distinguish the images they produce with real images. Here, I've trained my GAN to generate realistic handwritten digits and pictures of animals/objects. I used the MNIST, CIFAR10, and CIFAR100 datasets.
 
+A few technical notes:
+
 DRAGAN-main is the main file to run. 
 
 dataloader and utils are used to help DRAGAN and WassersteinGAN run.
