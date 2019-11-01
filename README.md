@@ -18,11 +18,11 @@ dataloader and utils are used to help DRAGAN and WassersteinGAN run.
 
 DRAGAN is an implementation of the Deep Regret Analytic Generative Adversarial Network, recently developed by Kodali et al to mitigate the effects of mode collapse. They hypothesize that mode collapse is due to the min-max game converging to a bad local equilibria in non-entirely convex games. To counter this effect, the paper suggests the use of gradient penalty points through a gradient penalty scheme, leading to the creation of DRAGAN.
 
-WassersteinGAN is an implementation of the Wasserstein GAN, which improves stability compared to the regular GANs. It uses Earth mover's distance to create a new loss function, which improves the quality of generated images.
+Wasserstein GAN is an implementation of the Wasserstein GAN, which improves stability compared to the regular GANs. It uses Earth mover's distance to create a new loss function, which improves the quality of generated images.
 
 ## Data!!!
 
-Enjoy some cool gifs of the DRAGAN and WGAN training on the MNIST, CIFAR10, and CIFAR100 datasets!
+Enjoy some cool gifs of the DRAGAN and Wasserstein GAN training on the MNIST, CIFAR10, and CIFAR100 datasets!
 
 ## PROMYS q-Eulerian Polynomial Data Generator
 
@@ -30,6 +30,7 @@ eulerian: This project was made in PROMYS 2018 to generate data for q-Eulerian p
 
 ## CIFAR100 Neural Network
 
-CIFARtest is a Convolutional Neural Network trained on the CIFAR100 dataset. Final commented accuracies are ran on 10 epochs each.
+
+CIFARtest is a Convolutional Neural Network trained on the CIFAR100 dataset. It is ideal for image recognition, and it tries to seperate the CIFAR100 images into 100 catagories. Final commented accuracies are ran on 10 epochs each.
 
 IMPORTANT: when running these three programs, change the paths, as they save the best model for test and validation.
