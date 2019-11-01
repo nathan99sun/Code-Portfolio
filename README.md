@@ -2,7 +2,7 @@
 
 Welcome to my MIT Maker Portfolio!
 
-I am an avid computer
+I am an avid computer programmer, and throughout high school, I've delved into machine learning and strived to utilize computer science in my math research.
 
 The following gives a brief description of each of the codes:
 
