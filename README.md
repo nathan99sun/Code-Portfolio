@@ -8,7 +8,7 @@ The following gives a brief description of each of the codes:
 
 ## Generative adversarial networks (GANs)
 
-GANs, or generative adversarial networks, contain two neural networks, a generator and a discriminator, that compete with each other. Given a training set, GANs are capable of generating original data with similar properties to the training set.
+GANs, or generative adversarial networks, contain two neural networks, a generator and a discriminator, that compete with each other. Here, my GAN is trained to generate realistic handwritten digits and pictures of animals/objects. 
 
 DRAGAN-main is the main file to run. 
 
