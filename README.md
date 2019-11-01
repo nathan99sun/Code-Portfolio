@@ -4,7 +4,7 @@ Welcome to my MIT Maker Portfolio!
 
 I am an avid computer programmer, and throughout high school, I've delved into machine learning and strived to utilize computer science in my math research.
 
-The following gives a brief description of each of the codes:
+The following gives a brief description of each of the codes and files:
 
 ## Generative adversarial networks (GANs)
 
@@ -20,7 +20,7 @@ DRAGAN is an implementation of the Deep Regret Analytic Generative Adversarial N
 
 WassersteinGAN is an implementation of the Wasserstein GAN, which improves stability compared to the regular GANs. It uses Earth mover's distance to create a new loss function, which improves the quality of generated images.
 
-## Data!
+## Data!!!
 
 Enjoy some cool gifs of the DRAGAN and WGAN training on the MNIST, CIFAR10, and CIFAR100 datasets!
 
