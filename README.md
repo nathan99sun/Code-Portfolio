@@ -20,7 +20,7 @@ DRAGAN is an implementation of the Deep Regret Analytic Generative Adversarial N
 
 WGAN is an implementation of the Wasserstein GAN, which improves stability compared to a classical GAN. It uses Earth mover's distance, another definition of distance, to create a new loss function, improving the quality of generated images.
 
-## Data!!!
+#### Data!!!
 
 Enjoy some cool gifs of the DRAGAN and Wasserstein GAN training on the MNIST, CIFAR10, and CIFAR100 datasets!
 
