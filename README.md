@@ -8,7 +8,7 @@ The following gives a brief description of each of the codes:
 
 ## Generative adversarial networks (GANs)
 
-GANs, or generative adversarial networks, contain two neural networks that compete with each other and improve at the same time. Eventually, they enhance themselves so much that even humans cannot distinguish the images they produce with real images. Here, I've trained my GAN to generate realistic handwritten digits and pictures of animals/objects. I used the MNIST, CIFAR10, and CIFAR100 datasets.
+GANs, or generative adversarial networks, contain two neural networks that compete with each other and improve at the same time. Eventually, they enhance themselves so much that even humans cannot distinguish the images they produce with real images. Here, I've trained a DRAGAN and a WassersteinGAN to generate realistic handwritten digits and pictures of animals/objects. I used the MNIST, CIFAR10, and CIFAR100 datasets.
 
 A few technical notes:
 
