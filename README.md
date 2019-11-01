@@ -2,6 +2,8 @@
 
 Welcome to my MIT Maker Portfolio!
 
+I am an avid computer
+
 The following gives a brief description of each of the codes:
 
 ## Generative adversarial networks (GANs)
