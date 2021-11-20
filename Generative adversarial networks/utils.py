@@ -6,7 +6,6 @@ import imageio
 import matplotlib.pyplot as plt
 from torchvision import datasets, transforms
 
-
 def save_images(images, size, image_path):
     return imsave(images, size, image_path)
 #helper function
