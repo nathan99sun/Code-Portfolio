@@ -1,8 +1,8 @@
-# MIT-Maker-Portfolio
+# Code Portfolio
 
-Welcome to my MIT Maker Portfolio!
+Welcome to my code portfolio!
 
-I am an avid computer programmer, and throughout high school, I've delved into machine learning and strived to utilize computer science in my math research. Computers can accomplish stunning feats that humans alone could not even dream of, and that never ceases to amaze me. So I've started to apply computer science to other fields and explored topics that sparked my curiosity, in hope that one day I could create something that would benefit society.
+I am an avid computer programmer, and throughout high school and college, I've delved into machine learning and strived to utilize computer science in my math research. Computers can accomplish stunning feats that humans alone could not even dream of, and that never ceases to amaze me. So I've started to apply computer science to other fields and explored topics that sparked my curiosity, in hope that one day I could create something that would benefit society.
 
 The following gives a brief description of each of the codes and files:
 
